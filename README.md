@@ -29,9 +29,13 @@ A logic gates editor created with Python (3.14.5) utilizing pygame-ce.
 - ctrl+shift+z | ctrl+y to redo
 - number keys 2-8 adjust the selected gates' number of inputs
 
-## 8-bit adder
-![8-bit adder](Screenshots/8_bit_adder.png)
-## Gate types and input variations
-![Gate types and input variations](Screenshots/gate_types.png)
+## 8-bit Adder
+![](Screenshots/8_bit_adder.png)
+## Gate Types and Input Variations
+![](Screenshots/gate_types.png)
 ## Different Components
-![Different Components](Screenshots/components.png)
+![](Screenshots/components.png)
+## Settings Interface
+![](Screenshots/settings_interface.png)
+## Save Interface
+![](Screenshots/save_interface.png)
