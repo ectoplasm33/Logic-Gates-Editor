@@ -1169,7 +1169,7 @@ def main(
     SAVES_BUTTON            = button(win_x - 47, 50, None, None, True, TEXTURES_BY_F[SAVE_BUTTON_FILE], behaviors.open_saves_interface)
     OPEN_BUTTON             = button(3, 3, None, None, False, TEXTURES_BY_F[ARROW_OPEN_FILE], behaviors.open_side_bar)
     CLOSE_BUTTON            = button(303, 3, None, None, True, TEXTURES_BY_F[ARROW_CLOSE_FILE], behaviors.close_side_bar)
-    EXIT_BUTTON             = button(win_x - 47, 3, 45, 45, False, 'exit', behaviors.close_interface)
+    EXIT_BUTTON             = button(win_x - 47, 3, 45, 45, False, 'Exit', behaviors.close_interface)
 
     OPEN_BUTTON.ties        = (SIDE_BAR, CLOSE_BUTTON)
     CLOSE_BUTTON.ties       = (SIDE_BAR, OPEN_BUTTON)
