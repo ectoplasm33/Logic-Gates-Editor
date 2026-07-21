@@ -29,6 +29,16 @@ A logic gates editor created with Python (3.14.5) utilizing pygame-ce.
 - ctrl+shift+z | ctrl+y to redo
 - number keys 2-8 adjust the selected gates' number of inputs
 
+**Included Example Saves**
+- Introduction to gates
+  Toggle Switches and lights connected to each gate type
+- SR-latch
+  NOR and NAND SR-Latch varients
+- Full adder
+  A full adder with two inputs and carry in
+- Clocks
+  Different clocks created with a NOT gate and varying number of BUFFER gates
+
 ## 8-bit Adder
 ![](Screenshots/8_bit_adder.png)
 ## Gate Types and Input Variations
