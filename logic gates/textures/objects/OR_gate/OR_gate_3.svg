@@ -1,0 +1,5 @@
+<svg viewBox = "0 0 150 100">
+  <!-- <rect x="0" y="0" width="150" height="100" fill="#e0e0e0"/> --><path d="M 12.5,25.0 L 50,25.0M 12.5,50.0 L 50,50.0M 12.5,75.0 L 50,75.0M 137.5,50.0 L 90,50.0" fill="none" stroke="#101010" stroke-width="5"/>
+
+  <path d="M 41,16  c 34,0 48,15 64,34 c -16,19 -30,34 -64,34 c 7.6,-13.6 7.6,-54.4 0,-68 z" fill="#1e1e1e" stroke="#101010" stroke-width="3" stroke-linejoin="round"/>
+</svg>

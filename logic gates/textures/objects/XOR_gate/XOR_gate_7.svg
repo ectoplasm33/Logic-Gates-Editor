@@ -1,0 +1,6 @@
+<svg viewBox = "0 0 150 175">
+  <!-- <rect x="0" y="0" width="150" height="175" fill="#e0e0e0"/> --><path d="M 12.5,12.5 L 50,12.5M 12.5,37.5 L 50,37.5M 12.5,62.5 L 50,62.5M 12.5,87.5 L 50,87.5M 12.5,112.5 L 50,112.5M 12.5,137.5 L 50,137.5M 12.5,162.5 L 50,162.5M 137.5,87.5 L 90,87.5" fill="none" stroke="#101010" stroke-width="5"/>
+
+  <path d="M 41,3.5  c 34,0.0 48,37.05882352941177 64,84.0 c -16,46.94117647058824 -30,84.0 -64,84.0 c 7.6,-33.6 7.6,-134.4 0,-168.0 z" fill="#1e1e1e" stroke="#101010" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 35.2,3.5  c 7.6,33.6 7.6,134.4 0,168.0" fill="none" stroke="#101010" stroke-width="3" stroke-linecap="round"/>
+</svg>
