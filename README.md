@@ -27,5 +27,6 @@ A logic gates editor created with Python (3.14.5) utilizing pygame-ce.
 - ctrl+v to paste selection
 - ctrl+z to undo last action
 - ctrl+shift+z | ctrl+y to redo
+- number keys 2-8 adjust the selected gates' number of inputs
 
 
