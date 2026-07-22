@@ -23,8 +23,6 @@ __all__ = [
     'GATE_OBJECTS',
     'NO_INPUT_OBJECTS',
     'NO_OUTPUT_OBJECTS',
-    'serialize_current_state',
-    'deserialize_save',
 ]
 
 RENDER_SCALE = 3.5
