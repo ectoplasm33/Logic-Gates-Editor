@@ -27,6 +27,7 @@ Logic gates simulator/editor
 - ctrl+v to paste selection
 - ctrl+z to undo last action
 - ctrl+shift+z | ctrl+y to redo
+- number keys 2-8 adjust the selected gates' number of inputs
 
 **Notes:**
 This simulator is built on pygame.
@@ -945,14 +946,11 @@ def main(
 
     TOGGLE                      = toggle_switch
     LIGHT                       = light
-    HDISPLAY                    = horizontal_display
-    VDISPLAY                    = vertical_display
 
     WIRE                        = wire
     WIRE_NODE                   = wire_node
     WIRE_SEG                    = wire_segment
 
-    PLACER                      = object_placer
     ATTACHER                    = wire_attacher
 
     SELECTION                   = selection_area
@@ -1011,7 +1009,6 @@ def main(
     GUI_SCROLL_STEP = 20 
 
     # events
-    KEYDOWN                     = pygame.KEYDOWN
     MOUSEBUTTONDOWN             = pygame.MOUSEBUTTONDOWN
     MOUSEBUTTONUP               = pygame.MOUSEBUTTONUP
     MOUSEMOTION                 = pygame.MOUSEMOTION
