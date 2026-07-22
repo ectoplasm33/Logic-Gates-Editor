@@ -609,8 +609,6 @@ def new_save_file(btn: button,/) -> None:
             for i in range(option_h, h, option_h):
                 surf.fill(brdr_color, (0, i, w, brdr))
 
-    storage_init(path)
-
     reset_list(save_list, storage_list(path))
 
     input.input = ''
